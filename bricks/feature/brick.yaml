@@ -3,7 +3,7 @@ description: A new brick created with the Mason CLI.
 
 repository: https://github.com/musfique113/mason_rpg
 
-version: 0.1.0+1
+version: 0.0.1+1
 
 environment:
   mason: ">=0.1.0-dev.57 <0.1.0"
