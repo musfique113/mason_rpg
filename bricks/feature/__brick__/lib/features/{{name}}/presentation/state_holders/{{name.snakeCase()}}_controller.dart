@@ -1,10 +1,11 @@
 
 import 'package:get/get.dart';
+//add: get in pubspec.yaml
 
 class {{name.pascalCase()}}Controller extends GetxController {
-  final TestRepository _testRepository;
 
-  {{name.pascalCase()}}Controller(this._testRepository);
+
+  {{name.pascalCase()}}Controller();
 
  
 
