@@ -1,9 +1,9 @@
-name: feature
+name: feature_getx
 description: A new brick created with the Mason CLI.
 
 repository: https://github.com/musfique113/mason_rpg
 
-version: 0.0.1+1
+version: 0.0.1+2
 
 environment:
   mason: ">=0.1.0-dev.57 <0.1.0"
@@ -12,6 +12,5 @@ vars:
   name:
     type: string
     description: musfique113
-    default: default_feature_ag
+    default: default_getx
     prompt: What is your feature name?
-#ag: auto genrated

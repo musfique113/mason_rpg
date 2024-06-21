@@ -1,0 +1,17 @@
+name: bloc
+description: A new brick created with the Mason CLI.
+
+repository: https://github.com/musfique113/mason_rpg
+
+version: 0.0.1+1
+
+environment:
+  mason: ">=0.1.0-dev.57 <0.1.0"
+
+vars:
+  name:
+    type: string
+    description: musfique113
+    default: default_bloc
+    prompt: What is your feature name[bloc]?
+#ag: auto genrated
