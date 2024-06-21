@@ -1,3 +1,5 @@
 bricks:
-  feature:
-    path: bricks/feature
+  feature_getx:
+    path: bricks/feature_getx
+  bloc:
+    path: bricks/bloc
