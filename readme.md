@@ -32,10 +32,14 @@ Add the "feature" brick to your Mason configuration (`mason.yaml`) by specifying
 
 ```yaml
 bricks:
-  feature:
+  feature_getx:
     git:
       url: https://github.com/musfique113/mason_rpg.git
-      path: bricks/feature
+      path: bricks/feature_getx
+  bloc:
+    git:
+      url: https://github.com/musfique113/mason_rpg.git
+      path: bricks/bloc
 ```
 
 ### 3. Fetch the Brick
